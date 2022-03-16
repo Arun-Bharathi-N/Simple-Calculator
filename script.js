@@ -66,4 +66,3 @@ function clearAll() {
     nextValue = 0;
     inputValue.innerText = '0';
 }
-
