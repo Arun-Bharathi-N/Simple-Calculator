@@ -20,7 +20,6 @@
     border-radius: 30px;
     overflow: auto;
 }
-
 button {
     padding: 20px;
     background-color: aqua;
@@ -32,17 +31,14 @@ button {
     border: 3px solid black;
     border-radius: 10px;
 }
-
 button:hover {
     color: white;
     background-color: blue;
     border-radius: 30px;
 }
-
 .operator {
     background-color: red;
 }
-
 .clear {
     background-color: orangered;
     color: white;
